@@ -1,0 +1,18 @@
+
+.header{
+    padding: 20px;
+    color: black;
+}
+
+.logo{
+    width: 10px;
+}
+
+.menu{
+    padding: 0;
+}
+
+.menu ul{
+    display: grid;
+    border: solid rgb(199, 178, 97);
+}

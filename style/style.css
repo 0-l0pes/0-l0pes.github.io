@@ -1,0 +1,26 @@
+.header{
+    padding: 0px;
+    color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 25%;
+}
+
+.menu{
+    padding: 0;
+    padding-left: 30px;
+    list-style: circle;
+}
+
+
+.titulo{
+    padding-left:10px;
+    padding: 20px;
+}
